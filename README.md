@@ -24,13 +24,7 @@ La imagen debe representar la relación entre **adolescentes, datos y predicció
   - señales de alerta  
 - Colores serios y profesionales (azul, violeta, verde)
 
-**Título sobre la imagen:**
-
-> *“Predicción del Consumo de Drogas en Adolescentes mediante Minería de Datos”*
-
-**Subtítulo:**
-
-> *“Identificación temprana de riesgos usando inteligencia de datos”*
+![Portada](https://i.postimg.cc/Mpp0sNT3/Screenshot-2026-02-04-175339.png)
 
 ---
 
